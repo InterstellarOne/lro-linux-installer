@@ -7,7 +7,7 @@ wget https://raw.githubusercontent.com/InterstellarOne/lro-linux-installer/refs/
 unzip -o 1.5.0.8-crossplatform.zip
 rm 1.5.0.8-crossplatform.zip
 cd ~/.local/share/applications/
-wget -nc https://raw.githubusercontent.com/InterstellarOne/lro-temp/main/lroverhaul.desktop
+wget -nc https://raw.githubusercontent.com/InterstellarOne/lro-linux-installer/main/lroverhaul.desktop
 sed -i "s/*/$USER/g" lroverhaul.desktop
 echo Line Rider Overhaul installed!
 mono ~/.local/share/lroverhaul/linerider.exe
