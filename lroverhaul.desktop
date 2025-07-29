@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
 Name=Line Rider Overhaul
-Icon=/home/interstellar1/.local/share/lroverhaul/icon.ico
+Icon=/home/interstellar1/.local/share/lroverhaul/icon.png
 Exec=mono ~/.local/share/lroverhaul/linerider.exe
 Categories=Game
