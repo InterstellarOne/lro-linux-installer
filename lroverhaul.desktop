@@ -2,5 +2,5 @@
 Type=Application
 Name=Line Rider Overhaul
 Icon=/home/*/.local/share/lroverhaul/icon.png
-Exec=mono ~/.local/share/lroverhaul/linerider.dll
+Exec=dotnet ~/.local/share/lroverhaul/linerider.dll
 Categories=Game
